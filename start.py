@@ -2,7 +2,7 @@ import time
 from datetime import datetime
 
 
-month_salary=25000
+month_salary=20000
 #开始工作时间
 start_hour=10
 
