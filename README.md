@@ -6,3 +6,6 @@ python3.X
 
 # 运行方式
 python start.py
+
+# 运行截图
+![avatar](second_salary.png)
