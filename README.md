@@ -8,4 +8,5 @@ python3.X
 python start.py
 
 # 运行截图
-![avatar](https://github.com/NothinkingGao/second_salary/blob/master/second_money.png)
+![salary](http://47.105.206.51:8080//media/editor/second_money_20200113105345360224.png)
+
